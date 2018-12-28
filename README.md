@@ -7,8 +7,9 @@ Here is the content.
 
   1. Data Exploration
   
-	2. Feature Preprocessing
+  2. Feature Preprocessing
   
-	3. Model Training and Results Evaluation
+  3. Model Training and Results Evaluation
+ 
+  4. Accuracy and Conclusion
   
-	4. Accuracy and Conclusion
